@@ -1,0 +1,12 @@
+name: WordPrediction
+title: WordPrediction
+username:
+account: dhyaneshbabu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 338145
+bundleId: 1358516
+url: https://dhyaneshbabu.shinyapps.io/WordPrediction/
+when: 1525609691.36647
+asMultiple: FALSE
+asStatic: FALSE
